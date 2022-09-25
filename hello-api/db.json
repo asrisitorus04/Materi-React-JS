@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "body": "typicode"
-    },
-    {
-      "id": 2,
-      "title": "json-server",
-      "body": "typicode2"
-    },
-    {
       "id": 3,
       "title": "json-server",
       "body": "typicode3"
@@ -31,18 +21,22 @@
       "body": "Cobaan"
     },
     {
-      "id": 1664119421232,
-      "title": "Nangis",
+      "id": 1664120083306,
+      "title": "Baekq",
+      "body": "Asri"
+    },
+    {
+      "id": 1664122437520,
+      "title": "Turu weh",
+      "body": "Capek"
+    },
+    {
+      "id": 1664122451066,
+      "title": "Turu",
       "body": "Capek"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
